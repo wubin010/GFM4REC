@@ -1,2 +1,2 @@
-# -GFM4REC
+# GFM4REC
 paper list of the survey
