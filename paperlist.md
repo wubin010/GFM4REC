@@ -1,0 +1,13 @@
+## Newly added papers
+- [The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit](https://arxiv.org/abs/2501.02173)
+- [Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation](https://arxiv.org/abs/2501.02226)
+- [LLM-Assisted Knowledge Graph Completion for Curriculum and Domain Modelling in Personalized Higher Education Recommendations](https://arxiv.org/abs/2501.12300)
+- [Boosting Knowledge Graph-based Recommendations through Confidence-Aware Augmentation with Large Language Models](https://arxiv.org/abs/2502.03715)
+- [Unleashing the Power of Large Language Model for Denoising Recommendation](https://arxiv.org/abs/2502.09058)
+- [G-Refer: Graph Retrieval-Augmented Large Language Model for Explainable Recommendation](https://arxiv.org/abs/2502.12586)
+- [Training Large Recommendation Models via Graph-Language Token Alignment](https://arxiv.org/abs/2502.18757)
+- [KEDRec-LM: A Knowledge-distilled Explainable Drug Recommendation Large Language Model](https://arxiv.org/abs/2502.20350)
+- [Personalized Causal Graph Reasoning for LLMs: An Implementation for Dietary Recommendations](https://arxiv.org/abs/2503.00134)
+- [LLMInit: A Free Lunch from Large Language Models for Selective Initialization of Recommendation](https://arxiv.org/abs/2503.01814)
+- [Graph Retrieval-Augmented LLM for Conversational Recommendation Systems](https://arxiv.org/abs/2503.06430)
+- [Counterfactual Language Reasoning for Explainable Recommendation Systems](https://arxiv.org/abs/2503.08051)
