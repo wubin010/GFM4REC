@@ -11,3 +11,12 @@
 - [LLMInit: A Free Lunch from Large Language Models for Selective Initialization of Recommendation](https://arxiv.org/abs/2503.01814)
 - [Graph Retrieval-Augmented LLM for Conversational Recommendation Systems](https://arxiv.org/abs/2503.06430)
 - [Counterfactual Language Reasoning for Explainable Recommendation Systems](https://arxiv.org/abs/2503.08051)
+- [Retrieval-Augmented Purifier for Robust LLM-Empowered Recommendation](https://arxiv.org/abs/2504.02458)
+- [Multi-Modal Hypergraph Enhanced LLM Learning for Recommendation](https://arxiv.org/abs/2504.10541)
+- [MSCRS: Multi-modal Semantic Graph Prompt Learning Framework for Conversational Recommender Systems](https://arxiv.org/abs/2504.10921)
+- [Tuning-Free LLM Can Build A Strong Recommender Under Sparse Connectivity And Knowledge Gap Via Extracting Intent](https://arxiv.org/pdf/2505.10900)
+- [Who You Are Matters: Bridging Topics and Social Roles via LLM-Enhanced Logical Recommendation](https://arxiv.org/abs/2505.10940)
+- [LLM-CoT Enhanced Graph Neural Recommendation with Harmonized Group Policy Optimization](https://arxiv.org/abs/2505.12396)
+- [KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models](https://arxiv.org/abs/2505.14629)
+- [Cold-Start Recommendation with Knowledge-Guided Retrieval-Augmented Generation](https://arxiv.org/abs/2505.20773)
+- 
