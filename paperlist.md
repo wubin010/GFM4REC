@@ -19,4 +19,6 @@
 - [LLM-CoT Enhanced Graph Neural Recommendation with Harmonized Group Policy Optimization](https://arxiv.org/abs/2505.12396)
 - [KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models](https://arxiv.org/abs/2505.14629)
 - [Cold-Start Recommendation with Knowledge-Guided Retrieval-Augmented Generation](https://arxiv.org/abs/2505.20773)
+- [Reason-to-Recommend: Using Interaction-of-Thought Reasoning to Enhance LLM Recommendation](https://arxiv.org/pdf/2506.05069)
+- [CORONA: A Coarse-to-Fine Framework for Graph-based Recommendation with Large Language Models](https://arxiv.org/pdf/2506.17281)
 - 
